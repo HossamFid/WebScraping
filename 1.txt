@@ -1,0 +1,4 @@
+CompanyName: Motorola Mobility Inc.
+Skills: data analysis  ,  information management  ,  business requirements  ,  bi  ,  dashboards  ,  data analyst  ,  sql
+JobDescription: data analysis  ,  information management  ,  business requirements  ,  bi  ,  dashboards  ,  data analyst  ,  sql
+MoreInfo.: https://www.timesjobs.com/job-detail/engineer-data-analysis-motorola-mobility-inc-3-to-6-yrs-jobid-rrErIxkskWBzpSvf__PLUS__uAgZw==&source=srp

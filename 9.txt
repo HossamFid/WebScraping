@@ -1,0 +1,4 @@
+CompanyName: Neustar
+Skills: business rules  ,  sql  ,  security  ,  database  ,  cloud computing  ,  python  ,  sql programming
+JobDescription: business rules  ,  sql  ,  security  ,  database  ,  cloud computing  ,  python  ,  sql programming
+MoreInfo.: https://www.timesjobs.com/job-detail/manager-data-analysis-neustar-hyderabad-secunderabad-7-to-10-yrs-jobid-FiRhfXCtbvhzpSvf__PLUS__uAgZw==&source=srp

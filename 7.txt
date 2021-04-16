@@ -1,0 +1,4 @@
+CompanyName: Cotocus
+Skills: machine learning  ,  artificial intelligence  ,  docker
+JobDescription: machine learning  ,  artificial intelligence  ,  docker
+MoreInfo.: https://www.timesjobs.com/job-detail/principle-engineer-in-data-analysis-cotocus-bengaluru-bangalore-8-to-11-yrs-jobid-K25qIwXq__SLASH__B5zpSvf__PLUS__uAgZw==&source=srp

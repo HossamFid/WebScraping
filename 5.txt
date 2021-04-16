@@ -1,0 +1,4 @@
+CompanyName: Valeo Engine and Electrical Systems India Pvt Ltd
+Skills: visualization  ,  data analysis  ,  information technology  ,  data mining  ,  bi  ,  time seriesanalysis  ,  sql  ,  database  ,  tableau  ,  data extraction  ,  text mining  ,  data visualization  ,  statistical analysis  ,  regressionanalysis
+JobDescription: visualization  ,  data analysis  ,  information technology  ,  data mining  ,  bi  ,  time seriesanalysis  ,  sql  ,  database  ,  tableau  ,  data extraction  ,  text mining  ,  data visualization  ,  statistical analysis  ,  regressionanalysis
+MoreInfo.: https://www.timesjobs.com/job-detail/data-analysis-engineer-valeo-engine-and-electrical-systems-india-pvt-ltd-chennai-0-to-3-yrs-jobid-YBfU3EjYwvNzpSvf__PLUS__uAgZw==&source=srp
